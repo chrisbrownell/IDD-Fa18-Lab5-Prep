@@ -16,4 +16,4 @@ This is my pseudo-time-lapse of the box prototype:
 
 ![p6](https://github.com/chrisbrownell/IDD-Fa18-Lab5-Prep/blob/master/protobox-6.JPG)
 
-The switch should be able to be mounted on top, then connected to the Arduino from below. The Arduino can be powered via USB as shown.
+The switch should be able to be mounted on top, then connected to the Arduino from below. The Arduino can be powered via USB as shown, and be hidden within the box so no one knows it's there.
